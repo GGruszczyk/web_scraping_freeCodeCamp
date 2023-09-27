@@ -466,4 +466,3 @@ with open('testimonios.csv', 'w', newline='') as csvfile:
 
 print("Archivo CSV generado exitosamente.")
 
-"""https://colab.research.google.com/drive/1hrdzi2JqttrbYtEh2FqidNPu7d68C7uj?usp=sharing"""
